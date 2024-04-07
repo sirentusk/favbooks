@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana;
+}
+
+h1 {
+    font-size: 2em; /* 200% */
+}
+
+h3 {
+    font-size: 1.5em; /* 150% */
+}
+
+p {
+    font-size: 1em; /* 100% */
+}
